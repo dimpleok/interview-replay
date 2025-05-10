@@ -1,5 +1,4 @@
-# interview recordings.
-List some interview recordings.
+# List some interview recordings.
 
 https://bugfree.cc/replay/e26dc6322d7911f08e05fd9570e2483a
 
